@@ -20,8 +20,8 @@ Eventually, the encrypted payment makes its way to a routing node where the reci
 - They are an optional feature in zeus wallet
 - Anyone can make a trampoline payment manually at https://lnproxy.org
 
-*for sending only, unless you're using bolt12  
-**for sending only -- you can't create an invoice that uses
+*for sending only, unless you use bolt12  
+**for sending only -- you can't create an invoice that uses a rendezvous node
 
 # 3. You can make them undetectable
 
