@@ -9,7 +9,7 @@ A trampoline payment does *not* reveal a routing node that you're connected to. 
 
 Eventually, the encrypted payment makes its way to a routing node where the recipient can finally get it, decrypt it, and finalize the payment. Importantly, the payment is encrypted at each "bounce" and the trampoline nodes cannot run off with the money -- they can't even decrypt it to see who the ultimate recipient is, they can just follow their instructions to get it to the next bounce.
 
-# 2. They are growing in popularity
+# 2. Their popularity is growing
 
 - Trampoline payments are on by default in bolt12
 - They are an optional feature in bolt11
